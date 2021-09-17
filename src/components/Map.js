@@ -21,7 +21,7 @@ const [locationInfo, setLocationInfo] = useState(null)
     return (
         <div className="map">
             <GoogleMapReact
-                bootstrapURLKeys = {{ key: ' XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ' }}
+                bootstrapURLKeys = {{ key: 'AIzaSyDr-CEZPjDhg0sJeATgr0weyIJopAVELno' }}
                 defaultCenter = { center }
                 defaultZoom = { zoom }
             >
