@@ -9,5 +9,4 @@ const LocationInfoBox = ({ info }) => {
         </div>
     )
 }
-
 export default LocationInfoBox
